@@ -1,0 +1,14 @@
+{
+    "mayank1": {
+        "Name": "Mayank",
+        "Phone": "9620669866",
+        "Type": "Employee",
+        "Password": "asd123"
+    },
+    "akshay": {
+        "Name": "Askhay",
+        "Phone": "9620669866",
+        "Type": "Employee",
+        "Password": "lkj098"
+    }
+}
